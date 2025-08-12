@@ -4,3 +4,7 @@ bitsandbytes
 sentence-transformers
 peft
 ipywidgets
+numpy
+scikit-learn
+pdfplumber
+pymupdf
